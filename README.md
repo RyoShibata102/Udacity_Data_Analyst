@@ -14,10 +14,13 @@ The obervations/results are outlined at the end of the html
 
 ## Project 3
 Analyzing AB Test Results. This project contains hypothesis testing and also a regression approach on the given data of Udacity.
-The dataset contains two groups (control and treatment), which are confronted with an old and new website. The task was to check
-if the
+The dataset contains two groups of possible customers (control and treatment), which are confronted with an old and new website. The task was to check
+if the new page is significantly "better" than the old page in terms of the conversionrate (How many customers signed up)
 
 ## Project 4
+This project deals with twitters account "WeRateDogs". The main focus was on the Data Wrangling steps (Gathering, Assesing, Cleaning).
+The project shows the different way to gather data via api and gathering data manually/programmatically. It shows aswell how the asses different dataformats like csv, tsv and JSON. After cleaning the data there is a short analysis of the data, investigating which dog breeds are popular, which tweets get the most attention.
 
 ## Project 5
+Renting Bike Exploration - Fordgobike and Divvy Trip Systems. Readme in the Project folder
 
