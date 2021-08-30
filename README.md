@@ -22,5 +22,5 @@ This project deals with twitters account "WeRateDogs". The main focus was on the
 The project shows the different way to gather data via api and gathering data manually/programmatically. It shows aswell how the asses different dataformats like csv, tsv and JSON. After cleaning the data there is a short analysis of the data, investigating which dog breeds are popular, which tweets get the most attention.
 
 ## Project 5
-Renting Bike Exploration - Fordgobike and Divvy Trip Systems. Readme in the Project folder
+Renting Bike Exploration - Fordgobike and Divvy Trip Systems. Readme in the Project folder (The csv are zipped; for further investigation, you have to unpack the data first!)
 
